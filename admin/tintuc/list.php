@@ -19,7 +19,7 @@
                 $suasp = "index.php?act=suatintuc&id=" . $id;
                 $xoasp = "index.php?act=xoatintuc&id=" . $id;
                 $thongbaoxoa = "'"."Bạn có chắc chắn muốn xóa tin tức:".$tieu_de."'";
-                $hinh_anh_path = "../uploads/".$hinh_anh;
+                $hinh_anh_path = "../upload/".$hinh_anh;
                 if(is_file($hinh_anh_path)) {
                     $hinh = "<img src='$hinh_anh_path' height='80' width='80'>";
                 }else {
