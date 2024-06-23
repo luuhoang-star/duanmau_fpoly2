@@ -63,10 +63,10 @@
                           </div>';
                          }
                      ?>
-                <div class="selling_products" style="width:100%;">  <!-- 1, vs 4 cái đéo dùng nữa lúc làm gui email-->
+                <!-- <div class="selling_products" style="width:100%;">  
                   <img src="./img/clockforgirl.jpg" alt="anh">
                   <a href="">Đồng hồ đeo tay nữ</a>
-                </div>
+                </div> --> <!-- 1, vs 4 cái đéo dùng nữa lúc làm gui email-->
                 <!-- <div class="selling_products" style="width:100%;">
                   <img src="./img/clockforgirl.jpg" alt="anh">
                   <a href="">Đồng hồ đeo tay nữ</a>
